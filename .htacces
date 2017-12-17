@@ -1,0 +1,1 @@
+RewriteRule ^booking booking.html [nc]
